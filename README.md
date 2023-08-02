@@ -10,7 +10,7 @@ PepeSync Coming Soon!.
 Layer 2 Meme Chain Inspired by Pepe
 Bring your Meme tokens to Layer 2!
 
-[BUILDING LAYERX ](http://pepesync.xyz/))
+[BUILDING PepeSync ](http://pepesync.xyz/)
 
 
 
