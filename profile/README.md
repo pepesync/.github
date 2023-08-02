@@ -3,7 +3,7 @@
 </p>
 
 
-## About LockLabs Inc
+## About PepeSync
 
 PepeSync Coming Soon!.
 
