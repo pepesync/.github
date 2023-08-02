@@ -14,4 +14,4 @@ Bring your Meme tokens to Layer 2!
 
 
 
-[Follow LockLabs Inc Twitter](https://twitter.com/Pepe_Sync)
+[Follow PepeSync Twitter](https://twitter.com/Pepe_Sync)
